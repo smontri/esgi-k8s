@@ -7,11 +7,11 @@ variable "region" {
 variable "name_prefix" {
   description = "Objects name prefix to use for deployment"
   type        = string
-  default     = "eks"
+  default     = "esgi-k8s"
 }
 
 variable "actor" {
   description = "GitHub actor who triggered the creation"
   type        = string
-  default     = "actor"
+  default     = "smontri"
 }
