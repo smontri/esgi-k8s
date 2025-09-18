@@ -1,7 +1,5 @@
-# Cours Kubernetes
+# Déploiement infrastructure AWS
 
-## Infrastructure AWS
+## Machine virtuelle pour prise en main Kind
 
-Dans le cadre de ce cours, nous allons exploiter un environnement AWS Academy fourni par l'ESGI afin de déployer l'infrastructure nécessaire.
-
-## Mon cluster avec Kind
+## Déploiement d'un cluster complet
